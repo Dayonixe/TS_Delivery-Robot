@@ -15,7 +15,7 @@ Team : Valentin A. & Kevin B. & Gregory F. & Théo Pirouelle
 
 ---
 
-<div styple="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b; background-color: #fcf8e3; border-color: #faebcc;">
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b; background-color: #fcf8e3; border-color: #faebcc;">
 ⚠️ This directory includes only the functional part of the robot, it does not contain the software part, nor the interaction with external elements.
 </div>
 
