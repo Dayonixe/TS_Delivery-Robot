@@ -1,4 +1,4 @@
-# TS_Delivery-Robot
+# Delivery Robot
 
 Team : Valentin A. & Kevin B. & Gregory F. & Théo Pirouelle
 
@@ -15,9 +15,9 @@ Team : Valentin A. & Kevin B. & Gregory F. & Théo Pirouelle
 
 ---
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b; background-color: #fcf8e3; border-color: #faebcc;">
+```
 ⚠️ This directory includes only the functional part of the robot, it does not contain the software part, nor the interaction with external elements.
-</div>
+```
 
 The aim of the project is to create a delivery robot within a company. It must allow exchanges between a sender and a recipient. A software must ensure the exchange, as well as the good functioning of the robot.
 
