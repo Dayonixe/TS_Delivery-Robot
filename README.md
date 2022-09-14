@@ -1,5 +1,9 @@
 # TS_Delivery-Robot
 
+Team : Valentin A. & Kevin B. & Gregory F. & Théo Pirouelle
+
+<img src="https://img.shields.io/badge/language-Arduino-00979c?style=flat-square" alt="laguage-arduino" />
+
 ---
 
 ## Table of contents
@@ -14,8 +18,6 @@
 <aside>
 ⚠️ This directory includes only the functional part of the robot, it does not contain the software part, nor the interaction with external elements.
 </aside>
-
-<img src="https://img.shields.io/badge/language-Arduino-00979c?style=flat-square" alt="laguage-arduino" />
 
 The aim of the project is to create a delivery robot within a company. It must allow exchanges between a sender and a recipient. A software must ensure the exchange, as well as the good functioning of the robot.
 
@@ -32,9 +34,7 @@ The main objectives are :
 
 The main program follows this model:
 <p align="center">
-  <a href="xxxxxxxxx">
-    <img src="xxxxxxxxx" alt="xxx"/>
-  </a>
+  <img src="/doc/flowchart.png" alt="Flowchart" width="700"/>
 </p>
 
 ---
@@ -43,28 +43,20 @@ The main program follows this model:
 
 The complete connection is similar to the following picture:
 <p align="center">
-  <a href="xxxxxxxxx">
-    <img src="xxxxxxxxx" alt="xxx"/>
-  </a>
+  <img src="/doc/full_wiring.jpg" alt="Full wiring" width="700"/>
 </p>
 
 ### Engine
 <p align="center">
-  <a href="xxxxxxxxx">
-    <img src="xxxxxxxxx" alt="xxx"/>
-  </a>
+  <img src="/doc/engine.png" alt="Engine" width="700"/>
 </p>
 
 ### Screen
 <p align="center">
-  <a href="xxxxxxxxx">
-    <img src="xxxxxxxxx" alt="xxx"/>
-  </a>
+  <img src="/doc/screen.jpg" alt="Screen" width="700"/>
 </p>
 
 ### Buzzer
 <p align="center">
-  <a href="xxxxxxxxx">
-    <img src="xxxxxxxxx" alt="xxx"/>
-  </a>
+  <img src="/doc/buzzer.png" alt="Buzzer" width="700"/>
 </p>
