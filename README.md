@@ -2,7 +2,9 @@
 
 Team : Valentin A. & Kevin B. & Gregory F. & Théo Pirouelle
 
-<img src="https://img.shields.io/badge/language-Arduino-00979c?style=flat-square" alt="laguage-arduino" />
+<a href="https://www.arduino.cc/">
+  <img src="https://img.shields.io/badge/language-Arduino-00979c?style=flat-square" alt="laguage-arduino" />
+</a>
 
 ---
 
@@ -15,9 +17,8 @@ Team : Valentin A. & Kevin B. & Gregory F. & Théo Pirouelle
 
 ---
 
-```
-⚠️ This directory includes only the functional part of the robot, it does not contain the software part, nor the interaction with external elements.
-```
+> **Warning**<br>
+> This directory includes only the functional part of the robot, it does not contain the software part, nor the interaction with external elements.
 
 The aim of the project is to create a delivery robot within a company. It must allow exchanges between a sender and a recipient. A software must ensure the exchange, as well as the good functioning of the robot.
 
