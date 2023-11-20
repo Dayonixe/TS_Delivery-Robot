@@ -17,7 +17,7 @@ Team : Valentin A. & Kevin B. & Gregory F. & Théo Pirouelle
 
 ---
 
-> **Warning**<br>
+> [!WARNING]
 > This directory includes only the functional part of the robot, it does not contain the software part, nor the interaction with external elements.
 
 The aim of the project is to create a delivery robot within a company. It must allow exchanges between a sender and a recipient. A software must ensure the exchange, as well as the good functioning of the robot.
